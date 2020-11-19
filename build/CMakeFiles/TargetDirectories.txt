@@ -1,0 +1,3 @@
+/home/syrmia/Documents/work/upnpSearcher/build/CMakeFiles/edit_cache.dir
+/home/syrmia/Documents/work/upnpSearcher/build/CMakeFiles/rebuild_cache.dir
+/home/syrmia/Documents/work/upnpSearcher/build/CMakeFiles/mainUPnP.dir

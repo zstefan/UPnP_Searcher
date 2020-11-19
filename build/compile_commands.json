@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/home/syrmia/Documents/work/upnpSearcher/build",
+  "command": "/usr/bin/g++-5   -I/home/syrmia/Documents/work/upnpSearcher/include -I/home/syrmia/Documents/work/upnpSearcher/lib/MySocket/include  -g   -std=gnu++11 -o CMakeFiles/mainUPnP.dir/main.cpp.o -c /home/syrmia/Documents/work/upnpSearcher/main.cpp",
+  "file": "/home/syrmia/Documents/work/upnpSearcher/main.cpp"
+},
+{
+  "directory": "/home/syrmia/Documents/work/upnpSearcher/build",
+  "command": "/usr/bin/g++-5   -I/home/syrmia/Documents/work/upnpSearcher/include -I/home/syrmia/Documents/work/upnpSearcher/lib/MySocket/include  -g   -std=gnu++11 -o CMakeFiles/mainUPnP.dir/src/Searcher.cpp.o -c /home/syrmia/Documents/work/upnpSearcher/src/Searcher.cpp",
+  "file": "/home/syrmia/Documents/work/upnpSearcher/src/Searcher.cpp"
+},
+{
+  "directory": "/home/syrmia/Documents/work/upnpSearcher/build",
+  "command": "/usr/bin/g++-5   -I/home/syrmia/Documents/work/upnpSearcher/include -I/home/syrmia/Documents/work/upnpSearcher/lib/MySocket/include  -g   -std=gnu++11 -o CMakeFiles/mainUPnP.dir/src/STB.cpp.o -c /home/syrmia/Documents/work/upnpSearcher/src/STB.cpp",
+  "file": "/home/syrmia/Documents/work/upnpSearcher/src/STB.cpp"
+},
+{
+  "directory": "/home/syrmia/Documents/work/upnpSearcher/build",
+  "command": "/usr/bin/g++-5   -I/home/syrmia/Documents/work/upnpSearcher/include -I/home/syrmia/Documents/work/upnpSearcher/lib/MySocket/include  -g   -std=gnu++11 -o CMakeFiles/mainUPnP.dir/src/Service.cpp.o -c /home/syrmia/Documents/work/upnpSearcher/src/Service.cpp",
+  "file": "/home/syrmia/Documents/work/upnpSearcher/src/Service.cpp"
+},
+{
+  "directory": "/home/syrmia/Documents/work/upnpSearcher/build",
+  "command": "/usr/bin/g++-5   -I/home/syrmia/Documents/work/upnpSearcher/include -I/home/syrmia/Documents/work/upnpSearcher/lib/MySocket/include  -g   -std=gnu++11 -o CMakeFiles/mainUPnP.dir/src/Action.cpp.o -c /home/syrmia/Documents/work/upnpSearcher/src/Action.cpp",
+  "file": "/home/syrmia/Documents/work/upnpSearcher/src/Action.cpp"
+},
+{
+  "directory": "/home/syrmia/Documents/work/upnpSearcher/build",
+  "command": "/usr/bin/g++-5   -I/home/syrmia/Documents/work/upnpSearcher/include -I/home/syrmia/Documents/work/upnpSearcher/lib/MySocket/include  -g   -std=gnu++11 -o CMakeFiles/mainUPnP.dir/src/Argument.cpp.o -c /home/syrmia/Documents/work/upnpSearcher/src/Argument.cpp",
+  "file": "/home/syrmia/Documents/work/upnpSearcher/src/Argument.cpp"
+},
+{
+  "directory": "/home/syrmia/Documents/work/upnpSearcher/build",
+  "command": "/usr/bin/g++-5   -I/home/syrmia/Documents/work/upnpSearcher/include -I/home/syrmia/Documents/work/upnpSearcher/lib/MySocket/include  -g   -std=gnu++11 -o CMakeFiles/mainUPnP.dir/src/XMLParser.cpp.o -c /home/syrmia/Documents/work/upnpSearcher/src/XMLParser.cpp",
+  "file": "/home/syrmia/Documents/work/upnpSearcher/src/XMLParser.cpp"
+},
+{
+  "directory": "/home/syrmia/Documents/work/upnpSearcher/build",
+  "command": "/usr/bin/g++-5   -I/home/syrmia/Documents/work/upnpSearcher/include -I/home/syrmia/Documents/work/upnpSearcher/lib/MySocket/include  -g   -std=gnu++11 -o CMakeFiles/mainUPnP.dir/src/HTTPCommunicator.cpp.o -c /home/syrmia/Documents/work/upnpSearcher/src/HTTPCommunicator.cpp",
+  "file": "/home/syrmia/Documents/work/upnpSearcher/src/HTTPCommunicator.cpp"
+},
+{
+  "directory": "/home/syrmia/Documents/work/upnpSearcher/build",
+  "command": "/usr/bin/g++-5   -I/home/syrmia/Documents/work/upnpSearcher/include -I/home/syrmia/Documents/work/upnpSearcher/lib/MySocket/include  -g   -std=gnu++11 -o CMakeFiles/mainUPnP.dir/src/InOut.cpp.o -c /home/syrmia/Documents/work/upnpSearcher/src/InOut.cpp",
+  "file": "/home/syrmia/Documents/work/upnpSearcher/src/InOut.cpp"
+}
+]
